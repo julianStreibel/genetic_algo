@@ -7,7 +7,7 @@ Try it on your own with other functions from [Test functions for optimization](h
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development demo purposes.
+These instructions will get you a copy of the project up and running on your local machine for demo purposes.
 
 ```
 pip2 install numpy
